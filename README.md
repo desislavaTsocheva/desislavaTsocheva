@@ -15,4 +15,4 @@
 
 ### 📈 GitHub статистики
 
-![Stats](https://github-readme-stats.vercel.app/api?username=myUsername&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=desislavaTsocheva&show_icons=true&theme=tokyonight)
