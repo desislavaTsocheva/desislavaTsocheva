@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on a web application with **Java** and **Spring Boot**  
 - 🌱 I’m currently learning **Java** and **Spring Boot**  
-- 💬 Ask me about **C#**, **Python**  
-- 📫 How to reach me: tsochevadesislava5@gmail.com
-- 📫 How to reach me: https://www.linkedin.com/in/desislava-tsocheva-65714636a/
+- 💬 Ask me about **C#**, **ASP .NET Core MVC**  
+- 📫: tsochevadesislava5@gmail.com
+- 📫: https://www.linkedin.com/in/desislava-tsocheva-65714636a/
 
 ---
 
