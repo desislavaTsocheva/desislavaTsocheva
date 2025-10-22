@@ -1,43 +1,50 @@
 <h1 align="center">👋 Hi there, I'm Desislava</h1>
-<h3 align="center">💻 Computer Science Student | Passionate Learner | Problem Solver</h3>
+<h3 align="center">💻 Computer Science Student</h3>
 
 ---
 
 ### 🌱 About Me  
 
-- 🎓 Currently studying **Computer Science**  
-- 💡 Always curious and motivated to learn new technologies  
-- ⚙️ Focused on **React**, **TypeScript**, and **C#/.NET**  
-- 🤝 Love working in collaborative environments and building meaningful projects  
-- 📫 Reach me at: **[tsochevadesislava5@gmail.com](mailto:tsochevadesislava5@gmail.com)**  
-- 💼 Connect on [**LinkedIn**](https://www.linkedin.com/in/desislava-tsocheva-65714636a/)  
+- 🎓 Computer Science student focused on **building real-world applications**  
+- 💡 Passionate about **problem-solving**, **teamwork**, and **continuous learning**  
+- 🚀 Currently exploring **React**, **TypeScript**, and **.NET**  
+- ✉️ Reach me at: [tsochevadesislava5@gmail.com](mailto:tsochevadesislava5@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/desislava-tsocheva-65714636a/)  
 
 ---
 
-### 🛠️ Languages and Tools  
+## 🧠 Tech Stack  
 
+### 🎨 Front-end  
 <p align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,c,html,css,react,redux,tailwind,bootstrap" />
-  <br/>
-  <!-- Backend & DB -->
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mysql,mongodb,redis,postgres,spring" />
-  <br/>
-  <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,arduino,vscode,idea,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind&theme=dark" />
+</p>
+
+### ⚙️ Back-end  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,nodejs,express&theme=dark" />
+</p>
+
+### 🗄️ Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+</p>
+
+### 🧰 Tools & Others  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,docker,postman&theme=dark" />
 </p>
 
 ---
 
-### 🔥 My Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=desislavaTsocheva&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=desislavaTsocheva&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=desislavaTsocheva&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desislavaTsocheva&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desislavaTsocheva&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-contribution-stats.vercel.app/api/?username=desislavaTsocheva&theme=tokyonight&hide_border=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=desislavaTsocheva&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
----
+
