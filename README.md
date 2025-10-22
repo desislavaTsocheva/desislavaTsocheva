@@ -33,7 +33,7 @@
 
 ### 🧰 Tools & Others  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,docker,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" />
 </p>
 
 ---
