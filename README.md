@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Desislava</h1>
-<h3 align="center">💻 Computer Science Student</h3>
+<p align="center">As a dedicated Computer Science student💻, I am fueled by a passion for continuous learning and skill mastery. I thrive on the intellectual challenge of deconstructing and solving complex problems, and I am a strong believer in the power of collaboration within a team environment. I am driven by the opportunity to tackle new challenges and contribute meaningfully to impactful projects.</p>
 
 ---
 
@@ -7,7 +7,7 @@
 
 - 🎓 Computer Science student focused on **building real-world applications**  
 - 💡 Passionate about **problem-solving**, **teamwork**, and **continuous learning**  
-- 🚀 Currently exploring **React**, **TypeScript**, and **.NET**  
+- 🚀 Currently exploring **Java** & **SpringBoot**  
 - ✉️ Reach me at: [tsochevadesislava5@gmail.com](mailto:tsochevadesislava5@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/desislava-tsocheva-65714636a/)  
 
@@ -17,17 +17,18 @@
 
 ### 🎨 Front-end  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
 </p>
 
 ### ⚙️ Back-end  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,c&theme=dark" />
 </p>
 
 ### 🗄️ Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" title="Microsoft SQL Server" />
 </p>
 
 ### 🧰 Tools & Others  
